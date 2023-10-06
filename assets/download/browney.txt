@@ -1,1 +1,55 @@
-Wellcome Themesine World!
+Venancio Velez
+Software Developer
+
+
+
+
+Projects 
+Cloud Hopper
+Doodle jump style game replica
+Using Python and Pygame
+
+Linear Algebra
+A project over the basics of linear algebra 
+Matrices and Arrays 
+
+Yolo
+A project to make a working Yolo model 
+Which can accurately identify objects and 
+put bounding boxes around them.
+Experience
+Empire Pools Haskell, Ok
+I was a manager at Empire Pools for 1 year overseeing
+A group of people on jobsites.
+EDUCATION 
+Holberton School Tulsa, OK 
+August 2022 - May 2024 
+Software Engineering
+in Machine Learning 
+
+
+
+
+
+
+
+
+
+
+
+(918)-404-8180
+Haskell, Ok 
+Email Github Linkedin 
+
+
+
+SKILLS 
+Python 
+C
+Linux 
+Bash
+SQL 
+MySQL
+Pygame 
+Numpy
+Tensorflow
